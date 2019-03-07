@@ -1,1 +1,3 @@
-# CharlieDeanCT
+---
+permalink: /index.html
+---
